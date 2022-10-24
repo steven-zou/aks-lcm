@@ -17,7 +17,6 @@
             "defaultExecutablePath": "HttpExample/funcs/handler",
             "workingDirectory": "",
             "arguments": []
-        },
-        "enableForwardingHttpRequest": true
+        }
     }
 }
